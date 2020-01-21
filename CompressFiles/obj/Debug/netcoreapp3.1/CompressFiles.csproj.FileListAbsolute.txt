@@ -1,0 +1,13 @@
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\bin\Debug\netcoreapp3.1\CompressFiles.exe
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\bin\Debug\netcoreapp3.1\CompressFiles.deps.json
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\bin\Debug\netcoreapp3.1\CompressFiles.runtimeconfig.json
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\bin\Debug\netcoreapp3.1\CompressFiles.runtimeconfig.dev.json
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\bin\Debug\netcoreapp3.1\CompressFiles.dll
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\bin\Debug\netcoreapp3.1\CompressFiles.pdb
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\obj\Debug\netcoreapp3.1\CompressFiles.csprojAssemblyReference.cache
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\obj\Debug\netcoreapp3.1\CompressFiles.Form1.resources
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\obj\Debug\netcoreapp3.1\CompressFiles.csproj.GenerateResource.cache
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\obj\Debug\netcoreapp3.1\CompressFiles.AssemblyInfoInputs.cache
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\obj\Debug\netcoreapp3.1\CompressFiles.AssemblyInfo.cs
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\obj\Debug\netcoreapp3.1\CompressFiles.dll
+D:\Documentos\Repositorio\IDNDev\VS\CompressFiles\CompressFiles\obj\Debug\netcoreapp3.1\CompressFiles.pdb
